@@ -17,7 +17,7 @@ const Home = () => (
       />
       <View style={{ position: 'relative', flex: 1 }}>
         <TextInput style={styles.Textinput} placeholder="Pencarian" />
-        <Image style={{ position: 'absolute', top: 22, left: 20 }} source={require('../../assets/Icon/search.png')} />
+        <Image style={{ position: 'absolute', top: 22, left: 20 }} source={require('../../assets/icon/search.png')} />
       </View>
       <View style={{ width: 50, alignItems: 'center', justifyContent: 'center' }}>
         <Icon
